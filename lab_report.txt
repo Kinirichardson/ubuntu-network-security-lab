@@ -1,0 +1,5 @@
+ubuntu network security lab
+tools: ubuntu, VirtualBox, Nmap
+IP: 10.0.2.15
+open port: 631/tcp
+skills: linux, networking, port scanning
